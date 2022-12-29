@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Смартфон Samsung Galaxy A53 6/128Gb Тўқ сариқ ранг (Шафтоли)",
+    "brend": "Samsung",
+    "OS": "Android 11",
+    "dioganal": "6,5",
+    "ekran": "AMODEL",
+    "photocam": "64 МП, 12 МП, 5 МП, 5 МП",
+    "img": "https://backend.texnomart.uz/images/gallery/product/101271/31675/detail.jpg",
+    "price": "3 821 000 сўм"
+  },
+  {
+    "id": 2,
+    "name": "Смартфон Honor X9 6/128Gb Қора",
+    "brend": "Honor",
+    "OS": "Android 11",
+    "dioganal": "6,81",
+    "ekran": "IPS",
+    "photocam": "48 МП, 2 МП, 2 МП",
+    "img": "https://backend.texnomart.uz/images/gallery/product/102699/33082/detail.jpg",
+    "price": "3 921 000 сўм"
+  },
+  {
+    "id": 3,
+    "name": "Смартфон Vivo V25 8/256Gb Қора",
+    "brend": "Vivo",
+    "OS": "Android 12",
+    "dioganal": "6,44",
+    "ekran": "AMODEL",
+    "photocam": "64 МП, 8 МП, 2 МП",
+    "price": "4 921 000 сўм"
+  },
+  {
+    "id": 4,
+    "name": "Смартфон OPPO А57s 4/64Gb Мовий",
+    "brend": "OPPO",
+    "OS": "Android 11",
+    "dioganal": "6,56",
+    "ekran": "IPS",
+    "photocam": "50 МП, 2 МP",
+    "price": "5 921 000 сўм"
+  },
+  {
+    "id": 5,
+    "name": "Смартфон OPPO Reno7 8/128 Тўқ сариқ",
+    "brend": "OPPO",
+    "OS": "Android 11",
+    "dioganal": "6,5",
+    "ekran": "AMODEL",
+    "photocam": "64 МП, 12 МП, 5 МП, 5 МП",
+    "price": "4 121 200 сўм"
+  },
+  {
+    "id": 6,
+    "name": "Смартфон Samsung Galaxy A53 6/128Gb Тўқ сариқ ранг (Шафтоли)",
+    "brend": "Samsung",
+    "OS": "Android 11",
+    "dioganal": "6,5",
+    "ekran": "AMODEL",
+    "photocam": "64 МП, 12 МП, 5 МП, 5 МП",
+    "price": "4 198 200 сўм"
+  },
+  {
+    "id": 7,
+    "name": "Apple MacBook Air 13 M1 MGN63RU/A ноутбуки",
+    "brend": "Apple",
+    "dioganal": "13,3",
+    "pros": "Apple M1",
+    "ram": "8 ГБ",
+    "price": "19 043 000 сўм"
+  },
+  {
+    "id": 8,
+    "name": "MacBook Pro 13 MXK32ZP/A Space Gray",
+    "brend": "Aplle",
+    "pros": "Intel Core i5-8",
+    "hard": "256 ГБ",
+    "ram": "8 ГБ",
+    "price": "15 028 000 сўм"
+  },
+  {
+    "id": 9,
+    "name": "Моноблок Apple iMac 21.5 MNDY2LL/A",
+    "brend": "Aplle",
+    "pros": "Intel Core i5-8",
+    "hard": "256 ГБ",
+    "ram": "8 ГБ",
+    "price": "19 043 000 сўм"
+  },
+  {
+    "id": 10,
+    "name": "Ноутбук Apple MacBook Pro 14 M1 MKGP3RU/A",
+    "brend": "Aplle",
+    "pros": "Apple M1 Pro",
+    "hard": "256 ГБ",
+    "ram": "16 ГБ",
+    "price": "29 165 000 сўм"
+  }
+]
